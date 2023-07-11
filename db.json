@@ -1,0 +1,19 @@
+{
+  "Rating": [
+    {
+      "text": "hello world ",
+      "rating": 8,
+      "id": 1
+    },
+    {
+      "text": "aqdasddadsa dasdsadasd",
+      "rating": 8,
+      "id": 2
+    },
+    {
+      "text": "dsadsadsadsdsd",
+      "rating": 9,
+      "id": 3
+    }
+  ]
+}
